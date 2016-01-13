@@ -1,0 +1,12 @@
+{
+    "DistributionId": "DISTRIBUTION_ID", 
+    "InvalidationBatch": {
+        "Paths": {
+            "Quantity": 1, 
+            "Items": [
+                "/*"
+            ]
+        }, 
+        "CallerReference": "CALLER_REFERENCE"
+    }
+}
