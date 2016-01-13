@@ -9,7 +9,6 @@ pip install aws-cli
 
 Edit sync path and bucket
 ```
-cp sync.sh.template sync.sh
 vim sync.sh
 ```
 
@@ -22,7 +21,6 @@ Run
 
 Edit CloudFront config
 ```
-cp invalidation.sh.template invalidation.sh
 vim invalidation.sh
 ```
 
