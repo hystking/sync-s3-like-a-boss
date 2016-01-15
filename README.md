@@ -2,7 +2,7 @@
 
 Install aws-cli
 ```
-pip install aws-cli
+pip install awscli
 ```
 
 ## To sync S3 bucket
