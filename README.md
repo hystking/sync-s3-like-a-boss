@@ -16,15 +16,3 @@ Run
 ```
 ./sync.sh
 ```
-
-## To invalidate CloudFront
-
-Edit CloudFront config
-```
-vim invalidation.sh
-```
-
-Run
-```
-./invalidation.sh
-```
